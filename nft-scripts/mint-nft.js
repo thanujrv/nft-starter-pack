@@ -34,5 +34,5 @@ async function mintNFT(tokenURI) {
 
 }
 
-mintNFT("https://gateway.pinata.cloud/ipfs/<IPFS hash>"); //Used Pinata IPFS service for storing the digital asset
+mintNFT("https://gateway.pinata.cloud/ipfs/<nft metadata hash>"); //Used Pinata IPFS service for storing the digital asset
 
